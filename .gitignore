@@ -1,0 +1,28 @@
+    #  system files
+    .DS_Store
+    .AppleDouble
+    .LSOverride
+    /.DS_Store
+    documentos/.DS_Store
+
+    # Thumbnails
+    ._*
+
+    # Xcode-related files
+    # Build products
+    build/
+    DerivedData/
+
+    # Dependency caches
+    .swiftpm/
+    Pods/
+    Carthage/Build/
+
+    # Project-specific files
+    *.xcodeproj/xcuserdata/
+    *.xcworkspace/xcuserdata/
+
+    # Other common macOS files
+    .Spotlight-V100
+    .Trashes
+    Icon?
